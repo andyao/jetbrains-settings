@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="ANDROID_HOME" value="/Users/andy.yao/Developer/android-sdk" />
+    <macro name="JAVA_HOME" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/andy.yao/.m2/repository" />
+  </component>
+</application>

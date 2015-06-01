@@ -1,0 +1,466 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/datamodel/Goal.java" timestamp="1432678328632">
+        <mark key="'" line="401" column="22" />
+        <mark key="]" line="400" column="68" />
+        <mark key="^" line="399" column="26" />
+        <mark key="." line="400" column="0" />
+        <mark key="[" line="400" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/adjust/Adjust/src/com/adjust/sdk/ActivityHandler.java" timestamp="1431066287331">
+        <mark key="]" line="634" column="25" />
+        <mark key="^" line="634" column="25" />
+        <mark key="." line="634" column="25" />
+        <mark key="[" line="634" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/config/dev/res/values/config_dev.xml" timestamp="1432934834034">
+        <mark key="]" line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="[" line="20" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/RPGPlusApplication.java" timestamp="1432858671190">
+        <mark key="'" line="226" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/command/RefillDeployCommand.java" timestamp="1432234476882">
+        <mark key="'" line="14" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" timestamp="1432934690935">
+        <mark key="'" line="112" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/res/layout/king_of_the_hill_node_info_bubble.xml" timestamp="1431550836153">
+        <mark key="]" line="170" column="48" />
+        <mark key="^" line="52" column="34" />
+        <mark key="." line="170" column="48" />
+        <mark key="[" line="170" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/map/WarInfoFragment.java" timestamp="1432664010134">
+        <mark key="'" line="146" column="64" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/res/layout/koth_hotspot_reward.xml" timestamp="1431123794562">
+        <mark key="]" line="24" column="21" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="[" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/data/HotspotReward.java" timestamp="1431117532755">
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+        <mark key="[" line="49" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/RxBookApp.java" timestamp="1432423877014">
+        <mark key="'" line="24" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/command/KingOfTheHillCommand.java" timestamp="1432240002721">
+        <mark key="'" line="35" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/command/DeployUnitsCommand.java" timestamp="1432234846006">
+        <mark key="'" line="88" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/KingOfTheHillManager.java" timestamp="1432665902777">
+        <mark key="]" line="1042" column="0" />
+        <mark key="." line="1042" column="0" />
+        <mark key="[" line="1042" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/android-ui-lib/AndroidUILib/src/jp/gree/uilib/common/CustomFragmentTabHost.java" timestamp="1432330951012">
+        <mark key="'" line="22" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" timestamp="1432678326922">
+        <mark key="'" line="168" column="47" />
+        <mark key="]" line="168" column="56" />
+        <mark key="^" line="168" column="56" />
+        <mark key="." line="168" column="56" />
+        <mark key="[" line="168" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" timestamp="1432674602227">
+        <mark key="'" line="264" column="35" />
+        <mark key="]" line="368" column="16" />
+        <mark key="^" line="368" column="16" />
+        <mark key="." line="368" column="16" />
+        <mark key="[" line="368" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/gradle.properties" timestamp="1432231091938">
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="41" />
+        <mark key="[" line="5" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" timestamp="1432931883414">
+        <mark key="'" line="40" column="31" />
+      </file>
+      <file name="/a.dummy" timestamp="1432770784351">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" timestamp="1433190044655">
+        <mark key="'" line="370" column="86" />
+        <mark key="]" line="329" column="119" />
+        <mark key="^" line="329" column="119" />
+        <mark key="." line="329" column="119" />
+        <mark key="[" line="329" column="119" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/res/layout/koth_hotspot_reward.xml" timestamp="1432677315293">
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="[" line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" timestamp="1432934331659">
+        <mark key="'" line="182" column="44" />
+        <mark key="]" line="314" column="17" />
+        <mark key="[" line="286" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" timestamp="1432942211447">
+        <mark key="]" line="615" column="0" />
+        <mark key="." line="615" column="0" />
+        <mark key="[" line="615" column="0" />
+      </file>
+      <file name="$ANDROID_HOME$/sources/android-22/android/widget/ArrayAdapter.java" timestamp="1432664601720">
+        <mark key="'" line="311" column="6" />
+      </file>
+      <file name="$ANDROID_HOME$/sources/android-22/android/widget/ListView.java" timestamp="1432674152150">
+        <mark key="'" line="481" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/widget/WidgetService.java" timestamp="1432423893667">
+        <mark key="'" line="33" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/content/NodeInfoBubbleUpdater.java" timestamp="1432254733928">
+        <mark key="]" line="131" column="59" />
+        <mark key="^" line="131" column="59" />
+        <mark key="." line="131" column="59" />
+        <mark key="[" line="130" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/CCGameInformation.java" timestamp="1432675500862">
+        <mark key="'" line="1189" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/viewmodels/RepositoriesViewModel.java" timestamp="1432423812960">
+        <mark key="'" line="36" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/activities/CCActivity.java" timestamp="1431984291855">
+        <mark key="]" line="242" column="35" />
+        <mark key="^" line="242" column="35" />
+        <mark key="." line="242" column="35" />
+        <mark key="[" line="242" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/settings.gradle" timestamp="1432771122196">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/content/NodeInfoBubbleUpdater.java" timestamp="1432244890329">
+        <mark key="]" line="131" column="57" />
+        <mark key="^" line="131" column="57" />
+        <mark key="." line="131" column="57" />
+        <mark key="[" line="131" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" timestamp="1432677260590">
+        <mark key="'" line="402" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/map/WarInfoFragment.java" timestamp="1432666081713">
+        <mark key="]" line="155" column="33" />
+        <mark key="^" line="155" column="33" />
+        <mark key="." line="155" column="33" />
+        <mark key="[" line="155" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/KingOfTheHillManager.java" timestamp="1432944202012">
+        <mark key="]" line="966" column="0" />
+        <mark key="." line="966" column="0" />
+        <mark key="[" line="966" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/res/layout/hood_building_robbed.xml" timestamp="1431377818543">
+        <mark key="]" line="37" column="38" />
+        <mark key="^" line="37" column="38" />
+        <mark key="." line="37" column="38" />
+        <mark key="[" line="37" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/communication/CommandQueue.java" timestamp="1432234642348">
+        <mark key="'" line="814" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/Graph.java" timestamp="1432423884157">
+        <mark key="'" line="22" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1432770784308">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/RewardsFragment.java" timestamp="1431067118901">
+        <mark key="]" line="224" column="80" />
+        <mark key="^" line="224" column="80" />
+        <mark key="." line="224" column="80" />
+        <mark key="[" line="224" column="77" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/data/Battle.java" timestamp="1432943912035">
+        <mark key="]" line="105" column="0" />
+        <mark key="^" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/activities/MainActivity.java" timestamp="1432423861326">
+        <mark key="'" line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/map/MapFragment.java" timestamp="1432244572781">
+        <mark key="]" line="445" column="13" />
+        <mark key="^" line="445" column="13" />
+        <mark key="." line="445" column="13" />
+        <mark key="[" line="445" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/deploy/DeployManager.java" timestamp="1432235073304">
+        <mark key="'" line="216" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/WarScheduledService.java" timestamp="1431457393561">
+        <mark key="]" line="23" column="105" />
+        <mark key="^" line="23" column="105" />
+        <mark key="." line="23" column="105" />
+        <mark key="[" line="22" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/sources/android-testing/espresso/IntentsBasicSample/app/src/androidTest/java/com/example/android/testing/espresso/BasicSample/DialerActivityTest.java" timestamp="1432077592607">
+        <mark key="]" line="103" column="37" />
+        <mark key="^" line="103" column="37" />
+        <mark key="." line="103" column="37" />
+        <mark key="[" line="102" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/data/Command.java" timestamp="1432234944986">
+        <mark key="'" line="194" column="9" />
+      </file>
+      <file name="$ANDROID_HOME$/sources/android-22/java/lang/String.java" timestamp="1432234235299">
+        <mark key="'" line="1505" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/res/layout/king_of_the_hill_map.xml" timestamp="1431540639200">
+        <mark key="]" line="89" column="52" />
+        <mark key="^" line="89" column="48" />
+        <mark key="." line="89" column="48" />
+        <mark key="[" line="41" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="13" filename="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/RxBookApp.java" />
+      <jump line="22" column="21" filename="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/Graph.java" />
+      <jump line="33" column="26" filename="$USER_HOME$/Workspace/demo/rx-android-architecture/app/src/main/java/com/tehmou/rxbookapp/widget/WidgetService.java" />
+      <jump line="60" column="0" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/map/WarInfoFragment.java" />
+      <jump line="156" column="51" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/map/WarInfoFragment.java" />
+      <jump line="146" column="64" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/map/WarInfoFragment.java" />
+      <jump line="60" column="50" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/data/Battle.java" />
+      <jump line="659" column="11" filename="$ANDROID_HOME$/sources/android-22/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="83" column="29" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="84" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="152" column="9" filename="$ANDROID_HOME$/sources/android-22/android/widget/ArrayAdapter.java" />
+      <jump line="311" column="6" filename="$ANDROID_HOME$/sources/android-22/android/widget/ArrayAdapter.java" />
+      <jump line="370" column="86" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="979" column="45" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/KingOfTheHillManager.java" />
+      <jump line="143" column="13" filename="$ANDROID_HOME$/sources/android-22/java/util/Map.java" />
+      <jump line="1036" column="31" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/KingOfTheHillManager.java" />
+      <jump line="210" column="16" filename="$ANDROID_HOME$/sources/android-22/java/util/Map.java" />
+      <jump line="89" column="34" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/data/Battle.java" />
+      <jump line="42" column="60" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/build.gradle" />
+      <jump line="373" column="85" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="103" column="11" filename="$ANDROID_HOME$/sources/android-22/java/util/ArrayList.java" />
+      <jump line="375" column="32" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="514" column="16" filename="$ANDROID_HOME$/sources/android-22/android/widget/ListView.java" />
+      <jump line="1975" column="16" filename="$ANDROID_HOME$/sources/android-22/android/widget/AbsListView.java" />
+      <jump line="481" column="16" filename="$ANDROID_HOME$/sources/android-22/android/widget/ListView.java" />
+      <jump line="898" column="8" filename="$ANDROID_HOME$/sources/android-22/android/widget/AbsListView.java" />
+      <jump line="332" column="36" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="331" column="37" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="243" column="40" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="264" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="84" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/kingofthehill/fragment/chat/ChatFragment.java" />
+      <jump line="1189" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/CCGameInformation.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/data/GuildDetails.java" />
+      <jump line="66" column="30" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" />
+      <jump line="402" column="25" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" />
+      <jump line="167" column="24" filename="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" />
+      <jump line="168" column="47" filename="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/activities/goals/GoalBrowserActivity.java" />
+      <jump line="401" column="22" filename="$USER_HOME$/Workspace/projects/rpg-mw-and/RPGPlus/src/jp/gree/rpgplus/game/datamodel/Goal.java" />
+      <jump line="443" column="58" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="91" column="39" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="306" column="45" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="473" column="16" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/DatabaseSDK/DatabaseSDK/src/jp/gree/databasesdk/DatabaseAgent.java" />
+      <jump line="222" column="40" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/RPGPlusApplication.java" />
+      <jump line="101" column="33" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/RPGPlusApplication.java" />
+      <jump line="226" column="40" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/RPGPlusApplication.java" />
+      <jump line="33" column="32" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/database/DatabaseCurator.java" />
+      <jump line="313" column="33" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="690" column="16" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="314" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="4" column="16" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/callbacks/WorkDoneCallback.java" />
+      <jump line="322" column="42" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="30" column="23" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/LoadInstrumentation.java" />
+      <jump line="165" column="38" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="30" column="48" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" />
+      <jump line="97" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="30" column="28" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="184" column="20" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="264" column="42" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="218" column="36" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="201" column="23" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/Game.java" />
+      <jump line="265" column="42" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="227" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="61" column="26" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="266" column="44" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="329" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="334" column="22" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="85" column="26" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="176" column="45" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="175" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="348" column="21" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="127" column="23" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="185" column="26" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="360" column="26" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="41" column="60" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" />
+      <jump line="613" column="20" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="228" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="619" column="37" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="48" column="9" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar!/com/google/android/gms/common/api/GoogleApiClient.class" />
+      <jump line="129" column="42" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="153" column="18" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="783" column="22" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="154" column="19" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="866" column="20" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="158" column="14" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="143" column="22" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" />
+      <jump line="141" column="20" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" />
+      <jump line="170" column="65" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="344" column="17" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="173" column="38" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="37" column="35" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="180" column="20" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="40" column="31" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/communication/accounttransfer/AndroidAccountTransfer.java" />
+      <jump line="112" column="53" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/rpgplus-common/jp/gree/rpgplus/common/util/playservices/RPGGPGSGameHelper.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="983" column="0" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="182" column="44" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/RPGPlus/src/jp/gree/rpgplus/game/activities/map/GameStarter.java" />
+      <jump line="627" column="37" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar!/com/google/android/gms/common/api/GoogleApiClient.class" />
+      <jump line="641" column="25" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/google-play-game-services/google-play-services_lib/src/com/google/example/games/basegameutils/GameHelper.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Workspace/projects/rpg-cc-and/koth/jp/gree/rpgplus/kingofthehill/data/Battle.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>i</text>
+      </register>
+      <register name="a" type="4">
+        <text />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">Ij4=</text>
+      </register>
+      <register name="-" type="4">
+        <text>i</text>
+      </register>
+      <register name="3" type="4">
+        <text>)</text>
+      </register>
+      <register name="2" type="4">
+        <text>A</text>
+      </register>
+      <register name="1" type="4">
+        <text>i</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gbm90aGluZyB0byBkbwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ3VpbGREZXBsb3lQb2ludHNNYXAucHV0KGd1aWxkSWQsIGd1aWxkUG9pbnRzTWFwLmdldChndWlsZElkKSk7Cg==</text>
+      </register>
+      <register name="r" type="4">
+        <keys>
+          <key char="58" code="0" mods="0" />
+          <key char="37" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="62" code="0" mods="0" />
+          <key char="47" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+        </keys>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="4" type="4">
+        <text>)</text>
+      </register>
+      <register name=":" type="4">
+        <text>vs</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTZXQ8U3RyaW5nPiBrZXlTZXQgPSBndWlsZFBvaW50c01hcC5rZXlTZXQoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGZpbmFsIFN0cmluZyBndWlsZElkIDoga2V5U2V0KSB7Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxob29kX2NvbXBsZXRlc19pblw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">Ij4=</last-pattern>
+      <last-replace encoding="base64">IiA+</last-replace>
+      <last-substitute encoding="base64">Ij4=</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxkaW1lblw+</entry>
+        <entry encoding="base64">XDwiXD4=</entry>
+        <entry encoding="base64">XDxOdW1iZXJGb3JtYXRFeGNlcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxkXD4=</entry>
+        <entry encoding="base64">XDxkaWZmZXJlbnRcPg==</entry>
+        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
+        <entry encoding="base64">XDxjb25maWdDaGFuZ2VzXD4=</entry>
+        <entry encoding="base64">XDxsYW5kc2NhcGVcPg==</entry>
+        <entry encoding="base64">XDxBdXRvUmVzaXplVGV4dFZpZXdcPg==</entry>
+        <entry encoding="base64">XDxDdXN0b21UZXh0Vmlld1w+</entry>
+        <entry encoding="base64">XDxidWlsZGluZ19jb21wbGV0ZXNfaW5fdGV4dHZpZXdcPg==</entry>
+        <entry encoding="base64">XDxob29kX2NvbXBsZXRlc19pblw+</entry>
+        <entry encoding="base64">Ij4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>@d</entry>
+        <entry>h</entry>
+        <entry>list</entry>
+        <entry>qd</entry>
+        <entry>regs</entry>
+        <entry>reg</entry>
+        <entry>marks</entry>
+        <entry>wq</entry>
+        <entry encoding="base64">JXMvIj4vIiA+L2c=</entry>
+        <entry>split</entry>
+        <entry>vsplit</entry>
+        <entry>q</entry>
+        <entry>s</entry>
+        <entry encoding="base64">JzwsJz52cw==</entry>
+        <entry>vs</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

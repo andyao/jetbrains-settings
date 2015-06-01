@@ -1,0 +1,26 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping ext="indoc" type="JAVA" />
+      <mapping ext="md" type="Markdown" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="EpicBossActivity" type="CLASS" />
+      <mapping ext="ttf" type="Native" />
+      <mapping ext="otf" type="Native" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="keep" type="PLAIN_TEXT" />
+      <mapping ext="md" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
